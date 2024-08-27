@@ -1,6 +1,7 @@
-## Hi there 👋
+## `💞​ Olá, eu sou Larissa Loss!`
 
-<!--
+Seja muito bem-vindo ao meu perfil do GitHub! Sou uma estudante com uma grande
+
 **Larissa7771/Larissa7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
